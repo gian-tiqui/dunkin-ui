@@ -1,7 +1,7 @@
 const App = () => {
   return (
-    <div className="container flex h-screen justify-center items-center">
-      <p>meow</p>
+    <div className="container flex items-center justify-center h-screen">
+      <p>donat</p>
     </div>
   );
 };
