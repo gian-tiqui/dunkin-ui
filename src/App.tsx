@@ -9,7 +9,7 @@ const App = () => {
   };
 
   return (
-    <main className="container flex items-center justify-center h-screen">
+    <main className="grid h-screen place-content-center">
       <div className="text-center">
         {user ? (
           <p>Welcome, {user.username}!</p>
